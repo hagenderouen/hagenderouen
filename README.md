@@ -7,7 +7,6 @@ Certified full-stack web developer and scrum master with a passion for creating 
 
 ## 🛠️ Technologies & Skills
 ![](https://img.shields.io/badge/OS-Apple-informational?style=flat&logo=apple&logoColor=white&color=00afb9)
-![](https://img.shields.io/badge/OS-Microsoft-informational?style=flat&logo=microsoft&logoColor=white&color=00afb9) 
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=windows-terminal&logoColor=white&color=00afb9)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=00afb9) 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=00afb9)
@@ -25,7 +24,6 @@ Certified full-stack web developer and scrum master with a passion for creating 
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=00afb9)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=00afb9)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=00afb9)
-![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=00afb9)
 ![](https://img.shields.io/badge/Methods-Agile-informational?style=flat&logo=agile&logoColor=white&color=00afb9)
 ![](https://img.shields.io/badge/Methods-Scrum-informational?style=flat&logo=scrum&logoColor=white&color=00afb9)
 
