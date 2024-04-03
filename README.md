@@ -2,30 +2,32 @@
 
 ## Hi there, I'm Hagen. 👋
 
-Certified full-stack web developer and scrum master with a passion for creating business software and process improvements. I've built, marketed, sold, and administered business software applications for awhile.
+Certified full-stack web developer and scrum master with a passion for creating business software and process improvements. I've built, marketed, sold, and administered business software applications since 2016.
 
 
 ## 🛠️ Technologies & Skills
-![](https://img.shields.io/badge/OS-Apple-informational?style=flat&logo=apple&logoColor=white&color=00afb9)
-![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=windows-terminal&logoColor=white&color=00afb9)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=00afb9) 
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=00afb9)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=00afb9) 
-![](https://img.shields.io/badge/Frontend-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=00afb9) 
-![](https://img.shields.io/badge/Frontend-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=00afb9) 
-![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=00afb9) 
-![](https://img.shields.io/badge/Backend-Node-informational?style=flat&logo=node.js&logoColor=white&color=00afb9) 
-![](https://img.shields.io/badge/Backend-Express-informational?style=flat&logo=express&logoColor=white&color=00afb9)
-![](https://img.shields.io/badge/Backend-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=00afb9)
-![](https://img.shields.io/badge/Backend-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=00afb9)
-![](https://img.shields.io/badge/Backend-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=00afb9)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=00afb9)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=00afb9)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=00afb9)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=00afb9)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=00afb9)
-![](https://img.shields.io/badge/Methods-Agile-informational?style=flat&logo=agile&logoColor=white&color=00afb9)
-![](https://img.shields.io/badge/Methods-Scrum-informational?style=flat&logo=scrum&logoColor=white&color=00afb9)
+![](https://img.shields.io/badge/Apple-informationa?style=flat&logo=apple)
+![](https://img.shields.io/badge/Microsoft-informational?style=flat&logo=windows11)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript) 
+![](https://img.shields.io/badge/C%23-informational?style=flat&logo=csharp) 
+![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5)
+![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3) 
+![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap) 
+![](https://img.shields.io/badge/jQuery-informational?style=flat&logo=jquery) 
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react) 
+![](https://img.shields.io/badge/Node-informational?style=flat&logo=node.js) 
+![](https://img.shields.io/badge/Express-informational?style=flat&logo=express)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=sqlite)
+![](https://img.shields.io/badge/Microsoft_SQL_Server-informational?style=flat&logo=microsoftsqlserver)
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=git)
+![](https://img.shields.io/badge/Postman-informational?style=flat&logo=postman)
+![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=heroku)
+![](https://img.shields.io/badge/Visual_Studio_Code-informational?style=flat&logo=visual-studio-code)
+![](https://img.shields.io/badge/Visual_Studio-informational?style=flat&logo=visualstudio)
+![](https://img.shields.io/badge/Agile-informational?style=flat)
+![](https://img.shields.io/badge/Scrum-informational?style=flat)
 
 ## 📈 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hagenderouen)](https://github.com/hagenderouen/github-readme-stats)
