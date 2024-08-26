@@ -2,8 +2,9 @@
 
 ## Hi there, I'm Hagen. 👋
 
-Certified full-stack web developer and scrum master with a passion for creating business software and process improvements. I've built, marketed, sold, and administered business software applications since 2016.
-
+Web developer and scrum master with a passion for creating business software and process improvements. I've built, marketed, sold, and administered business software applications since 2016.
+<!-- Social -->
+You can find me on <a href="https://twitter.com/hagen_derouen"><img width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /></a>, or on <a href="https://www.linkedin.com/in/hagen-derouen/"><img width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /></a>
 
 ## 🛠️ Technologies & Skills
 ![](https://img.shields.io/badge/Apple-informationa?style=flat&logo=apple)
@@ -31,19 +32,8 @@ Certified full-stack web developer and scrum master with a passion for creating 
 
 ## 📈 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hagenderouen)](https://github.com/hagenderouen/github-readme-stats)
-[![Hagen's GitHub stats](https://github-readme-stats.vercel.app/api?username=hagenderouen&show_icons=true&theme=dark)](https://github.com/hagenderouen/github-readme-stats)
 
-## 🧪 Lab
-[![Node Weather Card](https://github-readme-stats.vercel.app/api/pin/?username=hagenderouen&repo=node-weather-website)](https://github.com/hagenderouen/node-weather-website)
-[![Chat App Card](https://github-readme-stats.vercel.app/api/pin/?username=hagenderouen&repo=my-chat-app)](https://github.com/hagenderouen/my-chat-app)
-[![Code Quiz Card](https://github-readme-stats.vercel.app/api/pin/?username=hagenderouen&repo=code-quiz)](https://github.com/hagenderouen/code-quiz)
-[![Password Generator Card](https://github-readme-stats.vercel.app/api/pin/?username=hagenderouen&repo=js-password-generator)](https://github.com/hagenderouen/js-password-generator)
-[![Workday Scheduler Card](https://github-readme-stats.vercel.app/api/pin/?username=hagenderouen&repo=workday-scheduler)](https://github.com/hagenderouen/workday-scheduler)
-[![Task API Card](https://github-readme-stats.vercel.app/api/pin/?username=hagenderouen&repo=task-manager-api)](https://github.com/hagenderouen/task-manager-api)
-[![Mini Chain Card](https://github-readme-stats.vercel.app/api/pin/?username=hagenderouen&repo=mini-chain)](https://github.com/hagenderouen/mini-chain)
 
-<!-- Social -->
-You can find me on <a href="https://twitter.com/hagen_derouen"><img width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /></a>, or on <a href="https://www.linkedin.com/in/hagen-derouen/"><img width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /></a>
 
 
 
