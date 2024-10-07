@@ -2,9 +2,11 @@
 
 ## Hi there, I'm Hagen. 👋
 
-Web developer and scrum master with a passion for creating business software and process improvements. I've built, marketed, sold, and administered business software applications since 2016.
+Web developer and scrum master passionate about creating business software and process improvements. I've built, marketed, sold, and administered business software applications since 2016.
 <!-- Social -->
 You can find me on <a href="https://twitter.com/hagen_derouen"><img width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /></a>, or on <a href="https://www.linkedin.com/in/hagen-derouen/"><img width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /></a>
+
+[![An image of @hagenderouen's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hagenderouen)](https://holopin.io/@hagenderouen)
 
 ## 🛠️ Technologies & Skills
 ![](https://img.shields.io/badge/Apple-informationa?style=flat&logo=apple)
